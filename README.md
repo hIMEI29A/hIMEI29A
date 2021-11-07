@@ -37,7 +37,7 @@ Some large, complex and interesting project on Golang
 
 ## Connect with me:
 
-[**Twitter**](https://twitter.com/himei29a)
-
-[**Telegram**](https://t.me/hiMEI29a)
+**Twitter** | **Telegram**
+----------- | ------------
+[My Twitter profile](https://twitter.com/himei29a) | [My Telegram profile](https://t.me/hiMEI29a)
 
