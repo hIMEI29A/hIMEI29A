@@ -25,7 +25,7 @@ Hi 👋, I'm Alexey "hIMEI" Matveev, a backend developer from St. Petersburg, Ru
 - NoSQL
 - OSINT
 
-### I would like to work on:
+### I'm currently working on:
 
 Some large, complex and interesting project on Golang
 
